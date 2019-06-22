@@ -1,0 +1,7 @@
+name: My Drupal Graphql
+type: module
+description: 'Test graphql module'
+package: Custom
+core: 8.x
+dependencies:
+  - graphql:graphql
